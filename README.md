@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/sandeep-pal-ba3b0622a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 </p>
 
@@ -35,9 +35,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
 </p>
 
-### Frameworks (Backend & Frontend)
+### Frameworks & Ecosystem
 <p align="center">
   <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+  <a href="https://filamentphp.com/" target="_blank"><img src="https://img.shields.io/badge/Filament-FAA026?style=for-the-badge&logo=filament&logoColor=white" alt="Filament"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
   <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/></a>
 </p>
@@ -46,11 +47,13 @@
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
 </p>
 
 ### Databases
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
 </p>
 
 ### Tools & Version Control
@@ -66,29 +69,29 @@
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
-    <h3><a href="#">E-Commerce Platform (Laravel)</a></h3>
+    <h3><a href="https://github.com/sandeep-pal11/salon_management">1. Salon Management System</a></h3>
     <p>
-      A full-featured shopping cart application with payment gateway integration, user authentication, and admin dashboard. <br/>
-      <strong>Tech Used:</strong> Laravel, MySQL, Bootstrap, JavaScript. <br/>
-      <strong>View Project:</strong> <a href="#">Link to Repo</a>
+      A web-based application offering secure login/logout, OTP-based password recovery, and OTP-verified appointment bookings. Includes product purchasing and a comprehensive Admin dashboard to manage users, staff, products, and orders.<br/>
+      <strong>Tech Used:</strong> Core PHP, MySQL, HTML, CSS, JavaScript.<br/>
+      <strong>View Project:</strong> <a href="https://github.com/sandeep-pal11/salon_management">Link to Repo</a>
     </p>
   </li>
   <br/>
   <li>
-    <h3><a href="#">Django Blog System</a></h3>
+    <h3><a href="https://github.com/sandeep-pal11/quiz_system">2. Quiz System (Laravel)</a></h3>
     <p>
-      A content management system allowing users to create, read, update, and delete posts (CRUD) with rich text editing. <br/>
-      <strong>Tech Used:</strong> Python, Django, SQLite/MySQL, HTML/CSS. <br/>
-      <strong>View Project:</strong> <a href="#">Link to Repo</a>
+      A robust Quiz platform featuring Category-wise Quiz Management, User Auth (Email/Forgot Password), Quiz Search, and Result Analytics. Users can download a certificate if they score above 70%.<br/>
+      <strong>Tech Used:</strong> Laravel, MySQL, Yajra Datatables, SweetAlert, HTML/CSS/JS.<br/>
+      <strong>View Project:</strong> <a href="https://github.com/sandeep-pal11/quiz_system">Link to Repo</a>
     </p>
   </li>
   <br/>
   <li>
-    <h3><a href="#">API Management Tool</a></h3>
+    <h3><a href="https://github.com/sandeep-pal11/drone">3. Drone Management System</a></h3>
     <p>
-      Developed robust RESTful APIs for mobile application data consumption with secure authentication tokens. <br/>
-      <strong>Tech Used:</strong> PHP, JSON, MySQL. <br/>
-      <strong>View Project:</strong> <a href="#">Link to Repo</a>
+      A Django-based e-commerce web application featuring product listings, user registration/login, add-to-cart functionality, and order processing logic.<br/>
+      <strong>Tech Used:</strong> Python, Django, HTML, CSS, JavaScript.<br/>
+      <strong>View Project:</strong> <a href="https://github.com/sandeep-pal11/drone">Link to Repo</a>
     </p>
   </li>
 </ul>
